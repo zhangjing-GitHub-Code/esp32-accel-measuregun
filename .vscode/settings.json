@@ -1,0 +1,16 @@
+{
+	"files.associations": {
+		"*.py": "python",
+		"limits": "cpp",
+		"functional": "cpp",
+		"type_traits": "cpp",
+		"unordered_map": "cpp",
+		"fstream": "cpp",
+		"istream": "cpp",
+		"ostream": "cpp",
+		"sstream": "cpp",
+		"atomic": "cpp",
+		"random": "cpp",
+		"cstdint": "cpp"
+	}
+}
